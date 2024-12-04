@@ -1,1 +1,2 @@
-![kirby](https://github.com/user-attachments/assets/fe3f0d46-95b9-4194-a852-641444829ff5)
+<img src="assets/kirby.gif" alt="Hamster Bailando" width="200" height="200">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6mgxc75tu3489b6j6og79lrsm)
